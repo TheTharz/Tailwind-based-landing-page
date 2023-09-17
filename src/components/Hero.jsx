@@ -20,6 +20,7 @@ const Hero = () => {
             typeSpeed={120}
             backSpeed={140}
             loop
+            //typing speed animation this
           />
         </div>
         <p className='md:text-2xl text-xl font-bold text-gray-500'>
