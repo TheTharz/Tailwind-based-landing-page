@@ -70,4 +70,6 @@ const Footer = () => {
   );
 };
 
+//export relavant modules
+
 export default Footer;
